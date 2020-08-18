@@ -1,0 +1,47 @@
+/*FONDO DE COLOR VERDE APARTIR DE UNA CLASE, SE OCUPA EL '.'+NOMBRE DE LA CLASE*/
+/*colores de fondo*/
+.fondoverde{
+    background-color:#01DF74 ;
+}
+.fondorojo{
+    background-color: red;
+}
+.fondoazul{
+    background-color:blue;
+}
+.fondomorado{
+    background-color:purple;
+}
+/*tamaños letra*/
+.tamañoletra{
+    font-size: 2em;
+    /*text-align: left;*/
+
+} 
+/*Colores de letra*/
+.letrablanca{
+    color:white;
+}
+.letranegra{
+    color:black;
+}
+/*bordes*/
+.bordegris1{
+    border: 10px outset #013ADF;
+}
+.bordenegro{
+    border: 1px solid black;
+}
+/*tamaños de recuadro */
+.tamañorecuadro{
+    width: 100%;
+    height: 10;
+}
+
+/*margenes*/
+
+.margen{
+    margin: -1px;
+    padding: -1px;
+}
+
